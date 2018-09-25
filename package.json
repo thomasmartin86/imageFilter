@@ -1,0 +1,13 @@
+{
+  "name": "Image Filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "homepage": "https://thomasmartin86.github.io/imageFilter",
+  "keywords": [],
+  "author": "Thomas Martin",
+  "license": "ISC"
+}
