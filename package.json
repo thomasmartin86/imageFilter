@@ -9,5 +9,8 @@
   "homepage": "https://thomasmartin86.github.io/imageFilter",
   "keywords": [],
   "author": "Thomas Martin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
 }
